@@ -1,0 +1,9 @@
+E:\00_git\c#\O2H\O2H\bin\Debug\O2H.exe.config
+E:\00_git\c#\O2H\O2H\bin\Debug\O2H.exe
+E:\00_git\c#\O2H\O2H\bin\Debug\O2H.pdb
+E:\00_git\c#\O2H\O2H\obj\Debug\O2H.csprojResolveAssemblyReference.cache
+E:\00_git\c#\O2H\O2H\obj\Debug\O2H.Form1.resources
+E:\00_git\c#\O2H\O2H\obj\Debug\O2H.Properties.Resources.resources
+E:\00_git\c#\O2H\O2H\obj\Debug\O2H.csproj.GenerateResource.Cache
+E:\00_git\c#\O2H\O2H\obj\Debug\O2H.exe
+E:\00_git\c#\O2H\O2H\obj\Debug\O2H.pdb
